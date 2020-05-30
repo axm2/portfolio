@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/hotelsite/</loc>
+    <lastmod>2020-05-20T23:12:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/da/</loc>
+    <lastmod>2020-05-10T23:12:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/ml-nlp/</loc>
+    <lastmod>2020-05-10T23:12:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/brick-block-breaker/</loc>
+    <lastmod>2020-04-24T23:12:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/cuny-class-notifier/</loc>
+    <lastmod>2019-12-30T23:12:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/sara/</loc>
+    <lastmod>2019-12-15T23:12:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/music-bot/</loc>
+    <lastmod>2018-01-01T23:12:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

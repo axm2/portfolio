@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hotel reservation system</title>
+      <link>http://example.org/hotelsite/</link>
+      <pubDate>Wed, 20 May 2020 23:12:23 -0400</pubDate>
+      
+      <guid>http://example.org/hotelsite/</guid>
+      <description>Hotel reservation system and search engine using flask and mysql. Supports user and hotel admin accounts, creating and cancelling bookings, creating new hotel franchises, and other similar functionalities.
+Group project made for CS370 Software Engineering</description>
+    </item>
+    
+    <item>
+      <title>Data Analytics</title>
+      <link>http://example.org/da/</link>
+      <pubDate>Sun, 10 May 2020 23:12:23 -0400</pubDate>
+      
+      <guid>http://example.org/da/</guid>
+      <description>Given a dataset of census income data, cleaned data, built models, performed k fold validations, and compared accuracies to predict whether people earn over 80k or under 80k.
+Final Project for CS381 Data Analytics
+Link to notebook</description>
+    </item>
+    
+    <item>
+      <title>ML for NLP</title>
+      <link>http://example.org/ml-nlp/</link>
+      <pubDate>Sun, 10 May 2020 23:12:23 -0400</pubDate>
+      
+      <guid>http://example.org/ml-nlp/</guid>
+      <description>Trained and tested a unigram maximum likelihood model, bigram maximum likelihood model and bigram model with add-one smoothing.
+Trained and tested a word2vec model, used to predict similar words
+Projects made for CS381 ML for NLP
+https://github.com/axm2/ml-for-nlp</description>
+    </item>
+    
+    <item>
+      <title>Brick breaker site</title>
+      <link>http://example.org/brick-block-breaker/</link>
+      <pubDate>Fri, 24 Apr 2020 23:12:23 -0400</pubDate>
+      
+      <guid>http://example.org/brick-block-breaker/</guid>
+      <description>Breakout remake using phaser.io game framework. Uses node.js and MySQL backend to show and record top scores and the user&amp;rsquo;s past games.
+Made for CS370 Software Engineering
+https://github.com/axm2/370p1</description>
+    </item>
+    
+    <item>
+      <title>Cuny Class Notifier</title>
+      <link>http://example.org/cuny-class-notifier/</link>
+      <pubDate>Mon, 30 Dec 2019 23:12:17 -0400</pubDate>
+      
+      <guid>http://example.org/cuny-class-notifier/</guid>
+      <description>A simple selenium script that keeps refreshing until the specified class opens up.
+https://github.com/axm2/cuny-class-notifier</description>
+    </item>
+    
+    <item>
+      <title>SARA</title>
+      <link>http://example.org/sara/</link>
+      <pubDate>Sun, 15 Dec 2019 23:12:23 -0400</pubDate>
+      
+      <guid>http://example.org/sara/</guid>
+      <description>&amp;ldquo;Search And Reporting Application&amp;rdquo; Features responsive web design, reading from a csv,json,xml file or from a google api call. Writing to a csv,json,xml file. Records all search queries and results and allows user to perform searches on the previous results. Also supports stats for things like unique queries, number of results, date, time, etc. Uses node.js and MySQL
+Project for CS 355 Internet and Web Technologies
+https://github.com/axm2/355-SARA</description>
+    </item>
+    
+    <item>
+      <title>Music bot</title>
+      <link>http://example.org/music-bot/</link>
+      <pubDate>Mon, 01 Jan 2018 23:12:23 -0400</pubDate>
+      
+      <guid>http://example.org/music-bot/</guid>
+      <description>Bot for voice communication software mumble. Written in ruby, connected to mopidy and allowed user to search for a songs to create a playlist and then play, pause, skip, etc while having the audio piped in through mumble. Broken due to libspotify being deprecated.
+https://github.com/axm2/Jenkins</description>
+    </item>
+    
+  </channel>
+</rss>
