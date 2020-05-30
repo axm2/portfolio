@@ -1,7 +1,7 @@
 ---
 title: "Brick breaker site"
 date: 2020-04-24T23:12:23-04:00
-draft: true
+draft: false
 ---
 
 ![Alt Text](https://thumbs.gfycat.com/DistinctFearfulBoar-size_restricted.gif)

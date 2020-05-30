@@ -6,9 +6,9 @@
 
 	<h1>{{ .Site.Data.personalize.Name }}</h1>
 
-	<img src = "img/me.jpg" style="filter:none;" height="300">
+    <img src = "img/me.jpg" style="filter:none;" height="300">
 
-    <h4>{{ .Site.Data.personalize.About| markdownify }}</h4>
+	<h4>{{ .Site.Data.personalize.About| markdownify }}</h4>
 
 	<table>
 		{{ range .Site.Data.personalize.profiles }}
@@ -33,8 +33,8 @@
 	<div>
 
 		<!-- orders content according to the "publishdate" field in front matter -->
-		{{ range first .Site.Data.personalize.PostLimit (.Pages.ByPublishDate).Reverse }}
-		<div>
+        {{ range first .Site.Data.personalize.PostLimit (.Pages.ByPublishDate).Reverse }}
+        <div>
 			<a href="{{ .Permalink }}">{{ .Title }}</a><br />
 			<time>{{ .Date.Format "January 2, 2006" }}</time>
 		</div>
@@ -42,7 +42,6 @@
 		{{ end }}
 
 
-		<!-- <h3><a href="posts/">View all posts</a></h3> -->
 	</div>
 
 

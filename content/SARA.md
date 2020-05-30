@@ -1,7 +1,7 @@
 ---
 title: "SARA"
 date: 2019-12-15T23:12:23-04:00
-draft: true
+draft: false
 ---
 
 ![Alt Text](../img/s1.jpg)
