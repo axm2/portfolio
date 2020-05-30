@@ -1,0 +1,28 @@
+Name = "Omar Mirza"
+
+# Supports markdown
+About = "Hi! I'm Omar. I got my Bachelor's degree in Computer Science from Queens College. I am primarily interested in machine learning and data science."
+
+Email = "oxmirza at gmail.com"
+
+# Add the filename with file extension.
+Resume = "resume.pdf"
+
+# Sets the number of posts to display on the front page
+PostLimit = 90
+
+[[profiles]]
+name = "GitHub"
+url = "https://github.com/axm2"
+
+[[profiles]]
+name = "Twitter"
+url = ""
+
+[[profiles]]
+name = "Goodreads"
+url = ""
+
+[[profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/omar-mirza-aa95a6159/"
